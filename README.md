@@ -3,7 +3,7 @@
 # NIM   : 311910643 
 # Kelas : TI 19 B2
 
-# Desain Database Inventaris PT!
+# Desain Database Inventaris PT UWU
 ![desain database](https://user-images.githubusercontent.com/81576195/124391075-ff78ea00-dd18-11eb-911c-e74a2cc362a0.png)
 
 # Koneksi 
